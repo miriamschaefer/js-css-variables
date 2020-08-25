@@ -1,9 +1,24 @@
+:root {
+  --base: rgb(255, 196, 0);
+  --spacing: 10px;
+  --blur: 10px;
+}
+
+img {
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+}
+
+.hl {
+  color: var(--base);
+}
+
 body {
   text-align: center;
-  background: #193549;
-  color: white;
-  font-family: 'helvetica neue', sans-serif;
-  font-weight: 100;
+  background: white;
+  color: rgb(20, 20, 20);
+  font-family: 'Karla', sans-serif;
   font-size: 50px;
 }
 
