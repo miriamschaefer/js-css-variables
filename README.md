@@ -1,4 +1,4 @@
-Update CSS variables with inputs and Javascript.
+##Update CSS variables with inputs and Javascript.
 
 Exercise 3/30, part of the [#Javascript30](http://javascript30.com) challenge.
 
